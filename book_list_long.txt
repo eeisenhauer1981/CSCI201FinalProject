@@ -1,0 +1,26 @@
+Mystery	The Fault in Our Stars	John Green	print	205
+Mystery	The Hobbit	J.R.R. Tolkien	print	270
+Biography	1984	"George Orwell, Erich Fromm, Cel¢l œster"	print	280
+NonFiction	"The Hunger Games (The Hunger Games, #1)"	Suzanne Collins	print	381
+Science	"Twilight (Twilight, #1)"	Stephenie Meyer	print	383
+Mystery	"Angels & Demons  (Robert Langdon, #1)"	Dan Brown	print	391
+Mystery	The Great Gatsby	F. Scott Fitzgerald	print	436
+Biography	Pride and Prejudice	Jane Austen	print	490
+Mystery	The Catcher in the Rye	J.D. Salinger	print	583
+Mystery	The Kite Runner	Khaled Hosseini	print	637
+Biography	Animal Farm	George Orwell	print	642
+Biography	To Kill a Mockingbird	Harper Lee	print	687
+Biography	"Divergent (Divergent, #1)"	Veronica Roth	print	707
+Fiction	"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)"	"J.K. Rowling, Mary GrandPr"	print	709
+Science	How to Be Good	Nick Hornby	eBook	0.7
+Fiction	"Gossip Girl (Gossip Girl, #1)"	Cecily von Ziegesar	eBook	1.3
+NonFiction	Jude the Obscure	Thomas Hardy	eBook	2.5
+Fiction	"Into the Gauntlet (The 39 Clues, #10)"	Margaret Peterson Haddix	eBook	2.6
+Fiction	"Queen of Sorcery (The Belgariad, #2)"	David Eddings	eBook	2.8
+Mystery	Foundation's Edge (Foundation #4)	Isaac Asimov	eBook	2.8
+Fiction	The Lottery and Other Stories	Shirley Jackson	eBook	3
+Fiction	"Inkdeath (Inkworld, #3)"	Cornelia Funke	eBook	4.3
+Fiction	The Odessa File	Frederick Forsyth	eBook	4.4
+Fiction	"Lady Midnight (The Dark Artifices, #1)"	Cassandra Clare	eBook	4.5
+Science	"Wings (Wings, #1)"	Aprilynne Pike	eBook	4.5
+Science	The Burgess Boys	Elizabeth Strout	eBook	4.9
